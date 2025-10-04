@@ -1,17 +1,17 @@
-Python-Assignment
+# Python-Assignment
 
 Welcome to my Python assignment submissions. Each script here tackles a different Python problem or use-case. Here’s a quick rundown of what each file does and how I approached the solution:
 
 1. Assignment_solution_1.py — Password Strength Checker
-I wrote a simple tool that checks how strong a password is. The program looks for things like
+    I wrote a simple tool that checks how strong a password is. The program looks for things like
 
-how long your password is,
+    - how long your password is,
 
-whether you mixed uppercase and lowercase letters,
+    - whether you mixed uppercase and lowercase letters,
 
-if you included numbers and special symbols.
+    - if you included numbers and special symbols.
 
-It gives feedback directly to the user about the password’s strengths and areas to improve—all using basic string checks and regular expressions.
+    - It gives feedback directly to the user about the password’s strengths and areas to improve—all using basic string checks and regular expressions.
 
 2. Cpu_Usage_Moniter.py — CPU Usage Monitor
 This script keeps track of your computer’s CPU usage in real-time using the psutil library.
