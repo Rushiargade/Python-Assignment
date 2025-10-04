@@ -1,4 +1,5 @@
 Python-Assignment
+
 Welcome to my Python assignment submissions. Each script here tackles a different Python problem or use-case. Here’s a quick rundown of what each file does and how I approached the solution:
 
 1. Assignment_solution_1.py — Password Strength Checker
